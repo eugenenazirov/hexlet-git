@@ -1,3 +1,3 @@
 git is awesome!
 new line
-experiment with amend
+I learned the 'git commit --amend' command
